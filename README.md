@@ -51,8 +51,6 @@ Before you start, ensure you have the following installed:
 - **Django** (can be installed via pip)
 - **pip** (Python package installer)
 
-### Steps
-
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/Rock-Paper-Scissors-Multiplayer-Game.git
