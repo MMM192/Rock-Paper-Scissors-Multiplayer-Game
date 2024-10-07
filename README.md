@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-Multiplayer-Game
 
 It's a multiplayer rock-paper-scissors game website where you can play with your friends in online mode or challenge other players. The game is built using Django for the backend, SQLite for the database, and JavaScript for the frontend.
-![Game Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/q2.png)
+![Game Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/rps/q2.png)
 
 
 ## Table of Contents
@@ -37,10 +37,10 @@ You can play the live version of the game here: [Rock-Paper-Scissors Multiplayer
 ## Screenshots
 
 ### Gameplay
-![Gameplay Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/q3.png) <!-- Replace with an actual screenshot -->
+![Gameplay Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/rps/q3.png) <!-- Replace with an actual screenshot -->
 
 ### Result Screen <!-- Replace with an actual screenshot -->
-![Result Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/q4.png)
+![Result Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/rps/q4.png)
 ## Installation and Setup
 
 ### Prerequisites
